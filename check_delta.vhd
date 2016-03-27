@@ -1,11 +1,3 @@
-/*
-code to check the delta cycle concept. 
-Set the initial values as shown in signal declaration
-at t=0 on the wave window, press on expand delta mode, and then press expand time at active cursor option.
-zoom in and check the delta cycle response at a,b and c.
-
-*/
-
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.NUMERIC_STD.all;

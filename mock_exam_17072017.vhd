@@ -1,3 +1,6 @@
+--this code given in exam is incorrect.
+--both agtb and aeqb go to '1' when a and b are equal.
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.numeric_std.all;
